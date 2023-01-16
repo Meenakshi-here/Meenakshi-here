@@ -9,7 +9,7 @@ Skills: Working Skills: Linux ~ Computer Networks ~ MySQL ~ Tableau ~ Python ^ P
 🪶Do contact: sakthimeenakshi511@gmail.com 
 🪶Interest on Debate Speaking ^ Calligraphy ^ Stenography  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sakthi511)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sakthi Meenakshi Anandan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SAKTHIMEENASHI)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sakthi511)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sakthi Meenakshi Anandan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SAKTHIMEENASHI)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi511)](https://github.com/anuraghazra/github-readme-stats)
 
