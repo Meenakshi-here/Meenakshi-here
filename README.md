@@ -1,16 +1,20 @@
-### Hi there 👋
+### HaPpY ChEerS!
+#### Inspiring ^ Inspirational! 😉
+Data Engineer AND Network Aspirant
 
-<!--
-**Sakthi511/Sakthi511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Working Skills: Linux ~ Computer Networks ~ MySQL ~ Tableau ~ Python ^ People Skills: Communication ~ Presentation ~ Narration
 
-Here are some ideas to get you started:
+🪶Working on Data Engineering and Data Analytics 
+🪶I’m  Database || Networks || Linux  
+🪶Do contact: sakthimeenakshi511@gmail.com 
+🪶Interest on Debate Speaking ^ Calligraphy ^ Stenography  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sakthi511)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sakthi Meenakshi Anandan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SAKTHIMEENASHI)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi511)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakthi511&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sakthi511)  
+
+![Profile views](https://gpvc.arturio.dev/Sakthi511)  
