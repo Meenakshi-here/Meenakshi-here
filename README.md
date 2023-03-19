@@ -1,8 +1,8 @@
 ### HaPpY ChEerS!
 #### Inspiring ^ Inspirational! 😉
 Data Science AND Network Aspirant
-
-Skills: Working Skills: Linux ~ Computer Networks ~ MySQL ~ Tableau ~ Python ^ People Skills: Communication ~ Presentation ~ Narration
+Working Skills: Linux ~ Computer Networks ~ MySQL ~ Tableau ~ Python <br>
+People Skills: Communication ~ Presentation ~ Narration
 
 🪶Working on Data Engineering and Data Analytics <br>
 🪶My learnings are in Database || Networks || Linux <br>
