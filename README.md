@@ -1,6 +1,6 @@
 ### HaPpY ChEerS!
 #### Inspiring ^ Inspirational! 😉
-Data Engineer AND Network Aspirant
+Data Science AND Network Aspirant
 
 Skills: Working Skills: Linux ~ Computer Networks ~ MySQL ~ Tableau ~ Python ^ People Skills: Communication ~ Presentation ~ Narration
 
