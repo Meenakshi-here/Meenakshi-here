@@ -13,8 +13,6 @@ People Skills: Communication ~ Presentation ~ Narration
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-here)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meenakshi-here&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Meenakshi-here)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meenakshi-here&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Meenakshi-here)  
 
 ![Profile views](https://gpvc.arturio.dev/Meenakshi-here)  
