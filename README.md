@@ -1,11 +1,11 @@
 ### HaPpY ChEerS!
 #### Inspiring ^ Inspirational! 😉
 Data AND Network Aspirant <br>
-Working Skills: Linux ~ Computer Networks ~ MySQL ~ Tableau ~ Python <br>
+Working Skills: Deep Learning || Machine Learning || Artificial Intelligence || Data Analytics || Tableau || Linux || Git & GitHub || J2ee || Junit || Java || Python || Blogger || Public Speaker<br>
 People Skills: Communication ~ Presentation ~ Narration
 
 🪶Working on Data Engineering and Data Analytics <br>
-🪶My learnings are in Database || Networks || Linux <br>
+🪶My learnings are in Ai,Ml,Dl || Fullstack <br>
 🪶Do contact: sakthimeenakshi511@gmail.com <br>
 🪶Interest on Debate Speaking ^ Calligraphy ^ Stenography <br>
 
